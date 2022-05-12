@@ -1,7 +1,7 @@
-# Adventure Game
+# Gone Nuts
 **Version 1.0.0**
 
-A surreal CLI adventure game set within a grocery store.
+A surreal text-based adventure game set within a grocery store.
 
 ---
 
