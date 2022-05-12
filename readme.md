@@ -1,4 +1,8 @@
 # Adventure Game
+**Version 1.0.0**
 
-A simple game made with Python to be played through the terminal.
-Created during the Intro to Programming course through Udacity.
+A surreal CLI adventure game set within a grocery store.
+
+---
+
+Created while completing the Python I course from Udacity.
